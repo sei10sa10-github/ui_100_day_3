@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Pizza",
+        "menu": [
+            {
+                "name": "Vegetarian Pizza",
+                "price": 13.00,
+                "image": "one.jpg"
+            },
+            {
+                "name": "Meat Pizza",
+                "price": 14.00,
+                "image": "two.jpg"
+            },
+            {
+                "name": "Hawaian Pizza",
+                "price": 12.50,
+                "image": "three.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Burger",
+        "menu": [
+            {
+                "name": "Vegetarian Burger",
+                "price": 13.00,
+                "image": "one.jpg"
+            },
+            {
+                "name": "Cheese Burger",
+                "price": 14.00,
+                "image": "two.jpg"
+            },
+            {
+                "name": "Hawaian Burger",
+                "price": 12.50,
+                "image": "three.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kebab",
+        "menu": [
+            {
+                "name": "Vegetarian Kebab",
+                "price": 13.00,
+                "image": "one.jpg"
+            },
+            {
+                "name": "Cheese Kebab",
+                "price": 14.00,
+                "image": "two.jpg"
+            },
+            {
+                "name": "Chili Kebab",
+                "price": 12.50,
+                "image": "three.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Dessert",
+        "menu": [
+            {
+                "name": "Iced cream",
+                "price": 13.00,
+                "image": "one.jpg"
+            },
+            {
+                "name": "Cheese cake",
+                "price": 14.00,
+                "image": "two.jpg"
+            },
+            {
+                "name": "Orange pie",
+                "price": 12.50,
+                "image": "three.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Salad",
+        "menu": [
+            {
+                "name": "Freash salad",
+                "price": 13.00,
+                "image": "one.jpg"
+            },
+            {
+                "name": "Chef's salad",
+                "price": 14.00,
+                "image": "two.jpg"
+            },
+            {
+                "name": "Salad with cheese",
+                "price": 12.50,
+                "image": "three.jpg"
+            }
+        ]
+    }
+]
